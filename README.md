@@ -1,11 +1,21 @@
 # mlzoomcamp
-Description  
-Context "Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]    
 
-Content Each row represents a customer, each column contains customer's attributes described on the column Metadata.    
+## Problem Statement  
+Customer churn poses a significant challenge for businesses, especially in the telecommunication (telecom) industry (Verhelst et al., 2021). While companies frequently launch campaigns to keep customers from leaving, it is challenging to target the right customers due to the balance between saving marketing budget and avoiding customer annoyance.
 
-The data set includes information about:    
+## Goal And Objective
+The objective is to identify customers at risk of leaving thus make informed data for tailored churn reduction strategies.
 
-Customers who left within the last month - the column is called Churn Services that each customer has signed up for - phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies Customer account information - how long they've been a customer, contract, payment method, paperless billing, monthly charges, and total charges Demographic info about customers - gender, age range, and if they have partners and dependents Inspiration To explore this type of models and learn more about the subject.    
+## Approach
+Leverage machine learning models to develop a churn prediction model. The process involved:
 
+(1) Data preparation with import, clean and transform data to feature engineer and EDA
+(2) Meticulous steps in pre-processing data (e.g., encoding, scaling, feature selection), and 
+(3) Then model selection to figure out which model as the most effective model
+(4) Last, model assessment to evaluate the model's ability to predict churn on unseen data based on key metrics including Accuracy, Precision, Recall, and F1 scores
+
+## Churn Prevention Framework
+Provide a holistic framework to translate customer data into actionable marketing tactics to prevent customer churn.
+
+## Data Source
 Taken from Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn/download
