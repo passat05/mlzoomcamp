@@ -3,7 +3,7 @@
 ## Problem Statement  
 Customer churn poses a significant challenge for businesses, especially in the telecommunication (telecom) industry (Verhelst et al., 2021). While companies frequently launch campaigns to keep customers from leaving, it is challenging to target the right customers due to the balance between saving marketing budget and avoiding customer annoyance.
 
-## Goal And Objective
+## Objective
 The objective is to identify customers at risk of leaving thus make informed data for tailored churn reduction strategies.
 
 ## Approach
