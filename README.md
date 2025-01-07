@@ -15,7 +15,7 @@ Leverage machine learning models to develop a churn prediction model. The proces
 (4) Last, model assessment to evaluate the model's ability to predict churn on unseen data based on key metrics including Accuracy, Precision, Recall, and F1 scores
 
 ## Churn Prevention Framework
-Provide a holistic framework to translate customer data into actionable marketing tactics to prevent customer churn.  
+Provide a holistic framework to translate customer data into actionable marketing tactics to prevent customer churn.
 ![framework.png](framework.png)
 ## Data Source
 Taken from Kaggle: https://www.kaggle.com/blastchar/telco-customer-churn/download
